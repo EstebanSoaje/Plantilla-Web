@@ -57,3 +57,8 @@ article{
     max-height: 50vh;
     object-fit: contain;
 }
+
+.redes{
+    font-size: 40px;
+    margin: 20px;
+}
